@@ -1,4 +1,14 @@
-img.logo {
-    width: 30%;
-    height: 30%;
+body {
+    background-color: papayawhip;
 }
+
+img.logo {
+    text-align: center;
+    width: 20%;
+    height: 20%;
+}
+
+h2 {
+    color: blue;
+}
+
